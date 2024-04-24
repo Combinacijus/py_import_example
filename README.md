@@ -1,5 +1,7 @@
 # py_import_example - ROS2 Humble example package on how to import custom python modules
 
+This repo was made to solve an error `ModuleNotFoundError: No module named 'foo'` by better understanding how installation process and import works
+
 ## Table of contents
 - [py\_import\_example - ROS2 Humble example package on how to import custom python modules](#py_import_example---ros2-humble-example-package-on-how-to-import-custom-python-modules)
   - [Table of contents](#table-of-contents)
